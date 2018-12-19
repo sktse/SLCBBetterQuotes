@@ -1,0 +1,27 @@
+# OSX
+.DS_Store
+
+# git
+.git
+
+# PyCharm
+.idea
+
+# Virtual Environment
+venv/
+
+# Compiled files
+*.pyc
+
+# Files created during the runtime
+SLCBBetterQuotes/Settings/settings.js
+SLCBBetterQuotes/Settings/settings.json
+
+# Testing temp files
+test-reports/
+tests/settings_files/settings-saved.json
+tests/settings_files/settings-saved.js
+
+# Release building
+tmp/
+SLCBBetterQuotes.zip
